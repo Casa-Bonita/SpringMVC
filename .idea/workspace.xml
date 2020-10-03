@@ -7,37 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="909f07f0-d5f3-4a39-bdf6-e383b0b50ae2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LessonSpringMvc.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/app/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/app/IndexController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/app/TovarController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/app/WebConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/tovar_page.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/LessonSpringMvc-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/LessonSpringMvc-1.0-SNAPSHOT/WEB-INF/classes/app/Application.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/LessonSpringMvc-1.0-SNAPSHOT/WEB-INF/classes/app/IndexController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/LessonSpringMvc-1.0-SNAPSHOT/WEB-INF/classes/app/TovarController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/LessonSpringMvc-1.0-SNAPSHOT/WEB-INF/classes/app/WebConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/LessonSpringMvc-1.0-SNAPSHOT/WEB-INF/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/LessonSpringMvc-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-5.2.9.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/LessonSpringMvc-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-5.2.9.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/LessonSpringMvc-1.0-SNAPSHOT/WEB-INF/lib/spring-context-5.2.9.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/LessonSpringMvc-1.0-SNAPSHOT/WEB-INF/lib/spring-core-5.2.9.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/LessonSpringMvc-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-5.2.9.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/LessonSpringMvc-1.0-SNAPSHOT/WEB-INF/lib/spring-jcl-5.2.9.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/LessonSpringMvc-1.0-SNAPSHOT/WEB-INF/lib/spring-web-5.2.9.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/LessonSpringMvc-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-5.2.9.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/LessonSpringMvc-1.0-SNAPSHOT/WEB-INF/tovar_page.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/app/Application.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/app/IndexController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/app/TovarController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/app/WebConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,11 +144,6 @@
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
             </expand>
             <select />
           </treeState>
@@ -196,7 +161,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600797015787</updated>
-      <workItem from="1600797017384" duration="4343000" />
+      <workItem from="1600797017384" duration="4594000" />
+      <workItem from="1601600882717" duration="2543000" />
     </task>
     <servers />
   </component>
@@ -292,6 +258,10 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="440" y="157" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1600800591426" />
+    <state x="342" y="284" key="new project wizard" timestamp="1601601517972">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="342" y="284" key="new project wizard/0.0.1920.1160@0.0.1920.1160" timestamp="1601601517972" />
     <state x="623" y="255" width="672" height="678" key="search.everywhere.popup" timestamp="1600798544255">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
